@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3d275256dd3bd8d71fd7835f68b0147d7758aa12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b5f8cfc931cae9362ca690ee827791c41be79ff5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_42ed63d1be21d57da6bb644385d27816a497ac88.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3d4630be34f03f46717eafaf917750449c1f2716.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4b27f85c2fd186493977a86231d0eb324373e749.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_13f23aec8bcfd3a0396c74a2394a1e9470a2e458.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/debug_0784289ad21b24976c3db12a674975c06c1874f2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1e3ca6a9e00a9fb7822cf6fc269fec4ca0296cf1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_2c201512c990187f48e112a2d4fe0f1ece670fbb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b032f5480b433823a1a0f803f1cabb450d013a8a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_4f4a957e571a3f3229ffa697cb0ab7afda7b7114.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_104fa38eb2def46e65d8d955830148555fb023c3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActionBarDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6dd42ba994f84e41d324027e5a07413596e3e96f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
